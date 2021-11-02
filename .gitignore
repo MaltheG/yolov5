@@ -31,6 +31,7 @@ data/*
 !data/images/bus.jpg
 !data/*.sh
 !datasets/CCPDMini/images/*
+!data/CCPDMini.yaml
 
 results*.csv
 
